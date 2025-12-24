@@ -4,3 +4,4 @@ In case you are not a fan of EXEs and want to run it from the Python script itse
 ```
 pip install pyautogui psutil pywinauto pynput pystray pillow
 ```
+You will need the icon.ico in the same folder if you are working with the python file unless manually removed.
